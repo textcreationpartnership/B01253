@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orders appointed by His most excellent Maiestie, and signified by speciall letters from the right honourable the lords of his most honourable Priuie Counsell, which all persons within this county, of what degree or qualitie soeuer, are straitly commanded to obserue.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1626</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01253</idno>
+            <idno type="STC">STC 8845</idno>
+            <idno type="STC">ESTC S122695</idno>
+            <idno type="EEBO-CITATION">52633187</idno>
+            <idno type="OCLC">ocm 52633187</idno>
+            <idno type="VID">173996</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01253)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173996)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2114:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orders appointed by His most excellent Maiestie, and signified by speciall letters from the right honourable the lords of his most honourable Priuie Counsell, which all persons within this county, of what degree or qualitie soeuer, are straitly commanded to obserue.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+               </titleStmt>
+               <extent>1 sheet  ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>by Bonham Norton, and Iohn Bill, Printers to the Kings most Excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1626.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initial.</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Equipment --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_orders">
+            <pb facs="tcp:173996:1"/>
+            <list>
+               <head>
+                  <g ref="char:leaf">❧</g> Orders appointed by His moſt Excellent Maieſtie, and ſignified by ſpeciall Letters from the Right Honourable the Lords of His moſt Honourable Priuie Coun<g ref="char:EOLhyphen"/>ſell, which all perſons within this County, of what degree or qualitie ſoeuer, are ſtraitly commanded to obſerue.</head>
+               <item>1. <seg rend="decorInit">F</seg>Oraſmuch as the Sergeants, who were ſent by His Maieſtie into this County, for the Exerciſing and Inſtructing of the trayned Souldiers here, have done much good, yet not ſo much as His Maieſtie may iuſtly expect from ſo exact Rules and Directions as were giuen; a great cauſe whereof hath beene, for that aſ well diuers who ſtand charged with finding of Armes, haue of late dayes beene negligent to ſend their Souldiers and Armes to the vſuall places of Traynings; as alſo the Souldiers when they were there, haue gone away as ſoone as they were called, before they haue been exerciſed, and haue come thither without Powder and Match; It is now therefore ſtraitly required, That from henceforwards, no man whatſoeuer, that findes ei<g ref="char:EOLhyphen"/>ther Horſe or Foote, preſume to faile in ſending ſuch Horſemen, Powder, and Armes which hee is charged to ſend to the vſuall places of Muſters, and that no Souldier preſume to depart from his Coulours, vntill hee ſhall bee diſcharged by his Captaine, And that no man charged with either Horſe or Foote, doe preſume to borrow either Horſe or Armes, but that he haue the ſame alwayes by him to bee ready at an houres warning, vpon paine of ſe<g ref="char:EOLhyphen"/>uere puniſhment, if the ſame bee diſcouered.</item>
+               <item>2. VVHereas His Maieſtie hath a ſpeciall care, that both Captaines, Officers and Souldiers, bee not onely able and ſufficient men, but alſo well affected in Religion, and hath therefore giuen expreſſe Commandement, that aſwell the Officers as Souldiers, be not onely able and ſufficient men, but alſo well affected in Religion; to which purpoſe His Maieſtie hath commanded, that aſwell the Officers as Souldiers, take the Oathe of Allegiance; That they therefore take notice hereof, and faile not to bee preſent at the time of Traynings, when they are to take the ſayd Oath, leſt a Certificate being made to the Lords of the Counſell of their defaults, there be a ſuſpicion conceiued of their diſaffection in Religion, by reaſon of their abſence at ſuch Time as they ſhould take the ſayd Oathes.</item>
+               <item>3. VVHereas at the firſt comming of the Sergeants into the Countrey, there was ſpecial order giuen, that out of euery hundred men, there ſhould be two choſen to be Sergeants &amp; Cor<g ref="char:EOLhyphen"/>porals, who ſhould be taught and inſtructed to exerciſe the other Souldiers, That they, who are ſo choſen accordingly, doe at ſuch times as there are no publike Trainings, and when they haue beſt leiſure, repaire to the Sergeants (who are come out of the Low-Countreys to that purpoſe) to be inſtructed by them in the duetie of their places, and that as well they, as all other Officers, be very carefull to enable themſelues to exerciſe their Companies when the Sergeants be gone out of the Countrey.</item>
+               <item>4. FOraſmuch as His Maieſtie, hath taken ſpeciall notice, that a chiefe cauſe of the inſufficiencie of the trained Bands of this Kingdome, proceedes from the changing of hatch therefore giuen commandement, that no Souldier enrolled, remooue his dwelling out of the Towne or Pariſh of his abode, without Licence obtained of the Deputie Lieu<g ref="char:EOLhyphen"/>tenant of that Diuiſion, to the end that in caſe he ſhall bee licenſed to depart, that then the Company may be againe made vp, and compleat both for Number, Perſons of actiue and able bodies, and men practiſed in their Armes; It is therefore ſtraitly commanded, That all the Souldiers take notice thereof, and be carefull in obeying this His Maieſties Command.</item>
+               <item>5. FOraſmuch, as there are at this preſent great preparations both in <hi>Spaine</hi> and <hi>Flanders,</hi> as well for Land, as Sea-forces, and that it is moſt apparant, that the Enemies of his Maieſties Peace, haue ſome Deſignes vpon his Highneſſe Kingdomes; and therefore it is fit that euery man bee in a readineſſe vpon any ſudden alarme: That therefore euery Horſe man haue alwayes by him in a readin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe, a pound of Powder, and foure and twentie Bullets: And euery Muſquetiere, his Bandeliers full of Powder, foure and twentie Bullets, and ſixe yards of Match, to ſerue vpon any ſudden Alarme, vntill the Magazin of the Countie may bee brought vnto them. It is therefore commanded, that euery Souldier haue in a readineſſe by him a Snap-ſacke, to carry his Victuals in: And the ſaid Powder, Match, Bullets, and Snap-ſacke, to bee preſently prouided and daily renewed, as occaſion ſerues, at the charge of the Townes, or priuatemen, that are charged with the ſaid Armes. And for that the Piſtols, and Harquebuſſes for Horſe men, and the Muſquets for Foot men, are many of them of ſeuerall Bores, ſo that the Maga<g ref="char:EOLhyphen"/>zins of the Countrey cannot poſſibly ſerue them all: That therefore euery man who findes any ſuch Armes, haue by him a Melting ladle, a payre of Moulds fit for his Piſtoll, Harque<g ref="char:EOLhyphen"/>buſſe, or Muſquet, according as hee finds the ſame.</item>
+               <item>6. THat euery Officer and Souldier bee alwayes in a readineſſe, at an houres warning, with his Armes and prouiſions, as aforeſaid, to repaire to his Colours, at ſuch place of <hi>Rendeuous</hi> as ſhall by his Captaine bee appoynted.</item>
+               <item>7. THat ſuch Beacons as are in any ſort decayed, be forthwith made vp and repayred, and that there bee prouiſion of Wood laid by them, for the maintaining and renewing of them, and that they bee diligently watched, by diſcreet and ſufficient men.</item>
+               <item>8. VVHereas His Maieſtic hath giuen expreſſe commandement, That there be ſufficient prouiſion of Carriages in readineſſe, for the conueying of Munition, Victuals, Baggage, &amp;c. to ſuch <hi>Rendeuous,</hi> as the Forces of this Countie ſhall be aſſigned vnto; And that to euery thouſand Souldiers, there be allotted one hundred Pioners, to be prouided with Spades, Pick<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xes, Shouels, H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tchets, Bills, and the like: And that there bee Carts and Carriages, and a conuenient number of Nagges appoynted, to mount Shot on vppon any ſudden: And that there be Poſtes appointed in ſeuerall parts of this Countie, to be ſent with directions from place to place. That therefore the high Conſtables within their ſeuerall Hundreds, doe preſently warne foure ſufficient Carts, and twentie Naggs to euery Company of two hundred men, within ſome of thoſe Townes, where the ſaid two hundred men are charged to bee always in rea<g ref="char:EOLhyphen"/>dineſſe to repaire at an houres warning, to ſuch <hi>Rendeuous,</hi> as the Captaine within that Diuiſion ſhall appoint his Souldiers to repaire vnto, letting the Owners of the ſaid Carts and Horſes know, that there is no intention to lay any charge vpon them, but that they ſhall be fully and reaſonably ſatisfied for any ſeruice they ſhall performe therein. And that euery high Conſtable doe deliuer a Note in writing both to the Deputie Lieutenants neere adioyning, and to the Captaine of that Diuiſion, as well of the names of the men, whom he hath warned to haue the ſaid C<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ts and Naggs, at all times in a readineſſe, as in what Pariſhes they dwell: And that all the pettie Conſtables, and other Inhabitants of euery Pariſh, take notice heereby of His Maieſties pleaſure for appoynting of Poſtes in ſeuerall parts; and that therefore whenſoeuer any Letters of Direction ſhall come to any of their Pariſhes, for this His Maieſties important ſeruice, that they forth with, without excuſe or delay, furniſh the Meſſengers, who ſhall bring any ſuch Letters, with Poſt-horſes from place to place. And that the High Conſtables doe preſently, vpon ſight hereof, with euery Diuiſion of two hundred Souldiers, warne twentieable and ſufficient Labourers for Pioners to appeare before the Deputie-Lieutenants next adioyning to that Diuiſion, to be enrolled for Pioners, and that the ſaid Pioners ſo enrolled, bee alſo ready at an houres warning, to repaire vnto ſuch place of <hi>Rendeuous,</hi> as the Captaine within that Diui<g ref="char:EOLhyphen"/>ſion ſhall appoint for his Souldiers. And that euery Pioner carry with him to the ſaid place of <hi>Rendeuous,</hi> his Spade, Pickaxe, Shouell, Hatchet and Bill. And for that it will be a great charge to the Countrey, to buy ſo many Spades, Pickaxes, and the reſt, not knowing certainly, whether there ſhall be occation to vſe them, and that in time they are likely to be loſt, That therefore euery high Conſtable, doe take order, that in euery Pariſh where any ſuch Pioner ſo inrolled as aforeſaid, ſhall dwell, the Inhabitants of the ſaid Pariſh ſhall either prouide for them at their charge, or vndertake to haue alwayes in a readineſſe, at an houres warning, for euery Pioner a Spade, Pickaxe, Shouell, Hatchet and Bill to be paid, if there be vſe of them by a generall charges and that the ſaid high Conſtables, giue an account to the Deputie Lieutenants next adioyning, what order the Inhabitants of the ſaid Pariſhes haue taken for hauing the ſaid Spades, &amp;c. in a readineſſe: for that, if an Army ſhould march, it would bee very troubleſome for the Carriages, eſpecially of Ordnance, to trauell, in reſpect of the great decay of High wayes in this County; that therefore the Inhabitants of euery Pariſh, be carefull preſently to mend their High wayes, and eſpecially to ſcoure their Ditches, and loppe the Trees growing vpon the High wayes, that vpon any ſudden occaſion the great defects in the High wayes, be no impediment to the ſafetie and welfare of this Kingdome.</item>
+               <item>9. HIs Maieſtie, out of His Royall and tender care of the peace and ſafetie, as well of euery one of his louing Subjects in particular, as of the whole Kingdome in generall, hath giuen vs ſtrict commandement, by ſeuerall Letters from the Right Honourable, the Lords of his Counſell, to deale ſeriouſly with the beſt fort of men, to prouide themſelues Armes for their particular vſe, which accordingly wee doe hereby pray and deſire all perſons that haue any thing to loſe, ſeriouſly to take the ſame into their conſideration, and to prouide themſelues of ſome competent Armes for the defence of their Wiues, Houſes, and Families, from the danger of perſons ill-affected in Religion, or otherwiſe riotous and diſorderly, at ſuch times as the trayned forces ſhall be drawne from the places of their habitation. And therefore that all high Conſtables &amp; pettie Conſtables be carefull to watch, for to apprehend, and puniſh all vagrant and idle perſons, as liue not in any lawfull vocation, and in times of ſuſpition and trouble, may either by tales and falſe tumours, diſtract the peoples minds, or by way of fact, commit inſo<g ref="char:EOLhyphen"/>lences or outrages, or miniſter the occaſion by their looſe examples, or vnlawfull combinations, wherein there may ariſe much diſaduantage to His Maieſties ſeruice, and quiet of the people. And that therefore as well the high and petty Conſtables, as all other His Maieſties louing Subjects, doe vpon the leaſt notice or ſuſpition of any ſuch dangerous perſons, aduertiſe ſome Iu<g ref="char:EOLhyphen"/>ſtice of Peace, or Deputy-Lieutenant, that they may be ſuppreſſed, and puniſhed according to their demerits.</item>
+               <item>10. THat the high Conſtables within euery ſeuerall Hundred, do forthwith ſend into euery pariſh within their Diuiſion, requiring the petty Conſtables, with the aduice of other the prin<g ref="char:EOLhyphen"/>cipall Inhabitants of their Pariſhes, preſently to deliuer vnto the Iuſtices of Peace, within their Diuiſion, the names and ſurnames of euery able man, from ſixteene yeares olde to threeſcore; the ſaid Iuſtices being already dealt withall, and deſired to enroll them, and returne their names, as aforeſaid, vnto ſome of the Deputy-Lieutenants next adioyning.</item>
+               <item>11. LAſtly, That the Sheriffe of the Countie doe ſend theſe Orders to all the High Conſtables within his Countie, and that the High Conſtables doe ſend one of them into euery Pa<g ref="char:EOLhyphen"/>riſh within their Hundred, and that euery petty Conſtable cauſe the ſame to be publiſhed amongſt all the Inhabitants of euery Pariſh, and that euery Inhabitant who ſtands char<g ref="char:EOLhyphen"/>ed with Armes, either Horſe or Foote, bee particularly made acquainted with theſe Orders.</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Bonham Norton, and Iohn Bill, Printers to the Kings moſt Excellent MAIESTIE. 1626.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
